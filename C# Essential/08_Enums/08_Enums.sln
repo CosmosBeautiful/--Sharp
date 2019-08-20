@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Enums", "08_Enums\08_Enums.csproj", "{AE90729E-FDD2-4748-BB14-0B46F4AAD068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE90729E-FDD2-4748-BB14-0B46F4AAD068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE90729E-FDD2-4748-BB14-0B46F4AAD068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE90729E-FDD2-4748-BB14-0B46F4AAD068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE90729E-FDD2-4748-BB14-0B46F4AAD068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1AB365A-2E10-4E53-968B-C8DE2A348775}
+	EndGlobalSection
+EndGlobal
